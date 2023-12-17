@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/j4cKSBK/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "The Enigmatic Quest",
+      "reading_time":5,
+      "posted_date" : "june 1 , 2023",
+      "author": "Alexandra Smith",
+      "hashtags": [
+        "development",
+        "resources"
+      ],
+      "author_image": "https://i.ibb.co/j4cKSBK/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/j4cKSBK/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpghttps://i.ibb.co/Jn1XXm8/eugenivy-now-2-Q9-4by19q-Y-unsplash.jpg",
+      "title": "Echoes of Eternity",
+      "reading_time":6,
+      "posted_date" : "june 25 , 2023",
+      "author": "Christopher Johnson",
+      "hashtags": [
+        "dev",
+        "resources"
+      ],
+      "author_image": "https://i.ibb.co/pf1BLHT/oleksandr-kurchev-ANu-WS9-RKsk-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/pf1BLHT/oleksandr-kurchev-ANu-WS9-RKsk-unsplash.jpg",
+      "title": "Whispers in the Dark",
+      "reading_time":7,
+      "posted_date" : "june 5 , 2023",
+      "author": "Emily Davis",
+      "hashtags": [
+        "development",
+        "res"
+      ],
+      "author_image": "https://i.ibb.co/j4cKSBK/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpghttps://i.ibb.co/Jn1XXm8/eugenivy-now-2-Q9-4by19q-Y-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/KmdgQbc/neom-Iy59i0-M7o-P4-unsplash.jpg",
+      "title": "A Tale of Shadows",
+      "reading_time": 8,
+      "posted_date" : "june 10 , 2023",
+      "hashtags": [
+        "development",
+        "resources"
+      ],
+      "author": "Michael Thompson",
+      "author_image": "https://i.ibb.co/pf1BLHT/oleksandr-kurchev-ANu-WS9-RKsk-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/CKmqM6y/andreas-kretschmer-ah-OKp3g4-I-unsplash.jpg",
+      "title": "Sands of Time",
+      "reading_time": 10,
+      "hashtags": [
+        "development",
+        "resources"
+      ],
+      "posted_date" : "june 20 , 2023",
+      "author": "Sophia Roberts",
+      "author_image": "https://i.ibb.co/pf1BLHT/oleksandr-kurchev-ANu-WS9-RKsk-unsplash.jpg"
+    }
+  ]
+  
